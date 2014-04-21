@@ -129,4 +129,3 @@ plotNetwork(parentValues)
 plt.show()
 
 
-
